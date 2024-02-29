@@ -1,0 +1,50 @@
+{
+  "taskPrioritization": [
+    {
+      "id": "fljdhilk;eh9w290peo3woiupreoqw",
+      "selectedType": "taskPrioritization",
+      "taskTitle": "Complete Project",
+      "dueDateTime": "2022-12-31T23:59",
+      "priorityLevel": "High",
+      "reminderMessage": "Project completion reminder",
+      "reminderFrequency": "Daily"
+    }
+  ],
+  "callLovedOnes": [
+    {
+      "id": "jlkhdjkslhd23-0[wieopw1'q;",
+      "selectedType": "callLovedOnes",
+      "dueDateTime": "2022-12-15T20:00",
+      "priorityLevel": "Low",
+      "contact": {
+        "name": "John Doe",
+        "relationship": "Family",
+        "phoneNumber": "123-456-7890",
+        "avatar": "https://cdn.pixabay.com/photo/2024/01/18/17/37/stalk-8517287_640.jpg",
+        "dob": "1970-08-10"
+      },
+      "reminderMessage": "Call family for updates",
+      "reminderFrequency": "Monthly"
+    }
+
+  ],
+  "birthday": [
+    {
+      "id": "d;ljskodljowqls8932ouie",
+      "selectedType": "birthday",
+      "dueDateTime": "2022-11-20T12:00",
+      "priorityLevel": "High",
+      "importanceWeight": 9,
+      "celebrant": {
+        "name": "Alice",
+        "relationship": "Friend",
+        "phoneNumber": "789-012-3456",
+        "avatar": "https://cdn.pixabay.com/photo/2023/11/07/12/49/wolves-8372284_640.jpg",
+        "dob": "1990-05-15"
+      },
+      "reminderMessage": "Surprise party for Alice",
+      "reminderFrequency": "Annual",
+      "giftIdeas": "Books, flowers, cake"
+    }
+  ]
+}
